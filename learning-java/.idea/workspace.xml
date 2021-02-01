@@ -81,9 +81,22 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Interest">
+  <component name="RunManager" selected="Application.LearnJava">
     <configuration name="Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.daddyawesome.Interest" />
+      <module name="learning-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.daddyawesome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.daddyawesome.LearnJava" />
       <module name="learning-java" />
       <extension name="coverage">
         <pattern>
@@ -107,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LearnJava" />
         <item itemvalue="Application.Interest" />
         <item itemvalue="Application.Main" />
       </list>
