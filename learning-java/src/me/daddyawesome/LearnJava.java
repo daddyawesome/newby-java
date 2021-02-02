@@ -14,8 +14,7 @@ public class LearnJava {
         String dog = a.iAmDog();
         System.out.println(dog);
 
-        ArrayList<Integer> b = new ArrayList<>();
-        b.
+
     }
 
     public static String addExclamationPoint(String s){
