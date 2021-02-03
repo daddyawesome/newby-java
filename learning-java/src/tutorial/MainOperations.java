@@ -9,9 +9,13 @@ public class MainOperations {
         int sum = x + 5 + z;
         int u = z / y ; // this would give us int value
         double v = z / y ; // this would give us int value also because both are int
-        double v = z / (double)y ; // this would give us int value also because both are int
+        double vv = z / (double)y ; // this would give us int value also because both are int
         double exp = Math.pow(x,y); //give an exponents
 
         System.out.println(sum);
+        System.out.println(u);
+        System.out.println(v);
+        System.out.println(vv);
+        System.out.println(exp);
     }
 }
