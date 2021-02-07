@@ -21,7 +21,7 @@ public class MainConditions {
         String sx = "Hello";
         String sy = "Hi";
 
-        boolean scompare = s.equal(sx);
+        boolean scompare = sx == sy;
         System.out.println(scompare);
 
         // boolean operator &, || and !()
