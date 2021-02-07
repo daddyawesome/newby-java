@@ -12,8 +12,6 @@ public class MainIfElse {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
 
-
-
         if (s.equals("Mark")){
             System.out.println("You type Mark");
         }else if(s.equals("Hello")){
