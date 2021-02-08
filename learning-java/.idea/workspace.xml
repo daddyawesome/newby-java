@@ -80,14 +80,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tutorial" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainArray">
+  <component name="RunManager" selected="Application.MainForLoop">
     <configuration name="MainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutorial.MainArray" />
       <module name="learning-java" />
@@ -114,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutorial.MainIfElse" />
+    <configuration name="MainForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial.MainForLoop" />
       <module name="learning-java" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutorial.MainInput" />
+    <configuration name="MainIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial.MainIfElse" />
       <module name="learning-java" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainForLoop" />
         <item itemvalue="Application.MainArray" />
         <item itemvalue="Application.MainNestedIfElse" />
         <item itemvalue="Application.MainIfElse" />
         <item itemvalue="Application.MainConditions" />
-        <item itemvalue="Application.MainInput" />
       </list>
     </recent_temporary>
   </component>
