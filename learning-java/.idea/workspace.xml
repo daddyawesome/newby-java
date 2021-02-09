@@ -87,7 +87,7 @@
       <recent name="tutorial" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainForEachLoop">
+  <component name="RunManager" selected="Application.MainWhileLoop">
     <configuration name="MainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutorial.MainArray" />
       <module name="learning-java" />
@@ -127,19 +127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutorial.MainIfElse" />
-      <module name="learning-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tutorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MainNestedIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutorial.MainNestedIfElse" />
       <module name="learning-java" />
@@ -153,13 +140,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial.MainWhileLoop" />
+      <module name="learning-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainWhileLoop" />
         <item itemvalue="Application.MainForEachLoop" />
         <item itemvalue="Application.MainForLoop" />
         <item itemvalue="Application.MainArray" />
         <item itemvalue="Application.MainNestedIfElse" />
-        <item itemvalue="Application.MainIfElse" />
       </list>
     </recent_temporary>
   </component>
