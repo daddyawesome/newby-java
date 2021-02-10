@@ -87,13 +87,13 @@
       <recent name="tutorial" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainSets">
-    <configuration name="MainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutorial.MainArray" />
+  <component name="RunManager" selected="Application.MainLinkedSets">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.daddyawesome.Main" />
       <module name="learning-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutorial.*" />
+          <option name="PATTERN" value="me.daddyawesome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutorial.MainForLoop" />
+    <configuration name="MainLinkedSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial.MainLinkedSets" />
       <module name="learning-java" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainLinkedSets" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainSets" />
         <item itemvalue="Application.MainWhileLoop" />
         <item itemvalue="Application.MainForEachLoop" />
-        <item itemvalue="Application.MainForLoop" />
-        <item itemvalue="Application.MainArray" />
       </list>
     </recent_temporary>
   </component>
