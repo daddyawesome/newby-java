@@ -87,7 +87,7 @@
       <recent name="tutorial" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainWhileLoop">
+  <component name="RunManager" selected="Application.MainSets">
     <configuration name="MainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutorial.MainArray" />
       <module name="learning-java" />
@@ -127,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainNestedIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutorial.MainNestedIfElse" />
+    <configuration name="MainSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial.MainSets" />
       <module name="learning-java" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainSets" />
         <item itemvalue="Application.MainWhileLoop" />
         <item itemvalue="Application.MainForEachLoop" />
         <item itemvalue="Application.MainForLoop" />
         <item itemvalue="Application.MainArray" />
-        <item itemvalue="Application.MainNestedIfElse" />
       </list>
     </recent_temporary>
   </component>
