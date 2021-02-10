@@ -87,7 +87,7 @@
       <recent name="tutorial" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainLinkedSets">
+  <component name="RunManager" selected="Application.MainLists">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.daddyawesome.Main" />
       <module name="learning-java" />
@@ -101,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutorial.MainForEachLoop" />
+    <configuration name="MainLinkedSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial.MainLinkedSets" />
       <module name="learning-java" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainLinkedSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutorial.MainLinkedSets" />
+    <configuration name="MainLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial.MainLists" />
       <module name="learning-java" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainLists" />
         <item itemvalue="Application.MainLinkedSets" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainSets" />
         <item itemvalue="Application.MainWhileLoop" />
-        <item itemvalue="Application.MainForEachLoop" />
       </list>
     </recent_temporary>
   </component>

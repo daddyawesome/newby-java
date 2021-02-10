@@ -1,53 +1,42 @@
 package tutorial;
 
-import java.util.HashSet;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.ArrayList;
+import java.util.LinkedList;
 
 public class MainLists {
     public static void main(String[] args){
-        //Sets
-
-        Set<Integer> t = new HashSet<Integer>();
+        //lists can change size
+        ArrayList<Integer> t = new ArrayList<Integer>();
         t.add(2);
-        t.add(15);
+        t.add(4);
         t.add(5);
-        t.add(7);
-        t.add(5);
-        t.add(9);
-        t.add(-5);
+        t.add(4);
+        t.add(1);
+        t.add(6);
 
-        t.remove(9);
+        t.set(1,5);
 
-        boolean x =t.contains(5);
-        System.out.println(t); //hashSet is not sorted
-        System.out.println(x);
-        int y = t.size();
-        System.out.println("Before clearing the size of the set is "+ y);
-        //to clear the set
-        t.clear();
-        y = t.size();
-        System.out.println("After clearing the set, the size of the set is "+ y);
+        System.out.println(t);
+        System.out.println(t.get(0));
+        System.out.println(t.size());
+        System.out.println(t.isEmpty());
+        System.out.println(t.subList(1,3));
 
-        Set<Integer> tree = new TreeSet<Integer>();
-        tree.add(5);
-        tree.add(7);
-        tree.add(5);
-        tree.add(9);
-        tree.add(-5);
-        tree.add(-15);
-        tree.add(25);
+        System.out.println("Using LinkedList");
+        LinkedList<Integer> tt = new LinkedList<Integer>();
+        tt.add(6);
+        tt.add(7);
+        tt.add(5);
+        tt.add(4);
+        tt.add(-1);
+        tt.add(8);
 
-        tree.remove(9);
+        tt.set(3,5);
 
-        x =tree.contains(5);
-        System.out.println(tree); //TreeSet is not sorted
-        System.out.println(x);
-        y = tree.size();
-        System.out.println("Before clearing the size of the set is "+y);
-        //to clear the set
-        tree.clear();
-        System.out.println("After clearing the set, the size of the set is "+ y);
-
+        System.out.println(tt);
+        System.out.println(tt.get(0));
+        System.out.println(tt.size());
+        System.out.println(tt.isEmpty());
+        System.out.println(tt.subList(1,3));
     }
 }
