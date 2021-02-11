@@ -87,7 +87,7 @@
       <recent name="tutorial" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountChar">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="CountChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutorial.CountChar" />
       <module name="learning-java" />
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.daddyawesome.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fcc.tutorials.Main" />
       <module name="learning-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="me.daddyawesome.*" />
+          <option name="PATTERN" value="fcc.tutorials.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.CountChar" />
         <item itemvalue="Application.MainMaps" />
         <item itemvalue="Application.MainLists" />
         <item itemvalue="Application.MainLinkedSets" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
